@@ -16,7 +16,7 @@ public class GPT {
         conn.setDoOutput(true);
         conn.setRequestProperty("Content-Type", "application/json");
         conn.setRequestProperty("Accept", "application/json");
-        conn.setRequestProperty("Authorization", "Bearer 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");
+        conn.setRequestProperty("Authorization", "Bearer token");
 
         try (DataOutputStream dos = new DataOutputStream(conn.getOutputStream())) {
             System.out.println(postData);
