@@ -1,0 +1,9 @@
+Question|Are they strong with the Force?
+Question|Is their lightsaber red?
+Question|Do they need a mask to survive?
+Answer|Darth Vader
+Question|Can they use Force Lightning?
+Answer|The Emperor
+Answer|Kylo Ren
+
+

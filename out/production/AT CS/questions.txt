@@ -1,0 +1,32 @@
+Q:
+Is it an iPhone?
+Q:
+Was it released after 2016?
+Q:
+Is the screen size 6.06 inches?
+A:
+If yes, the smartphone you are thinking of might be the iPhone XR.
+A:
+If no, go to the next question.
+Q:
+Does it have a notch?
+A:
+If yes, go to the next question.
+A:
+If no, the smartphone you are thinking of might be the iPhone 8 Plus.
+Q:
+Does it have a dual-camera setup?
+A:
+If yes, go to the next question.
+A:
+If no, the smartphone you are thinking of might be the iPhone 8.
+Q:
+Does it have Face ID?
+A:
+If yes, the smartphone you are thinking of might be the iPhone X or a newer model.
+A:
+If no, the smartphone you are thinking of might be the iPhone SE (2nd generation).
+Q:
+Is the back made of glass?
+A:
+If yes, the smartphone you are thinking of might be the iPhone 11 or a newer model.
